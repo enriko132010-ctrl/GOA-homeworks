@@ -3,7 +3,7 @@ from turtle import *
 #we want to paint a house 
 
 #step1: draw a square
-
+speed()
 width(7)
 
 forward(200)
